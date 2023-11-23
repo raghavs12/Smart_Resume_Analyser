@@ -31,6 +31,6 @@
 - `Uploaded_Resumes` folder is contaning the user's uploaded resumes.
 - `Classifier.py` is the main file which is containing a KNN Algorithm.
 - For more explanation of this project see the tutorial on Machine Learning Hub YouTube channel.
-- Admin side credentials is `Pad Cummins` and password is `2023`. 
+- Admin side credentials is `Pad cummins` and password is `2023`. 
 
 
