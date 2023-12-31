@@ -3,7 +3,7 @@ import nltk
 import spacy
 nltk.download('stopwords')
 # Load the model by its name without specifying the full path
-nlp = spacy.load(r"C:\Users\ragha\AppData\Local\Programs\Python\Python311\Lib\site-packages\en_core_web_sm\en_core_web_sm-2.3.1")
+
 
 
 
