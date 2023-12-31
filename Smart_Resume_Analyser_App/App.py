@@ -3,7 +3,7 @@ import nltk
 import spacy
 nltk.download('stopwords')
 # Load the model by its name without specifying the full path
-nlp = spacy.load("en_core_web_sm")
+nlp = spacy.load("en_core_web_sm-2.3.1")
 
 import pandas as pd
 import base64, random
