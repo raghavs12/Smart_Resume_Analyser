@@ -20,6 +20,9 @@ import pymysql
 from Courses import ds_course, web_course, android_course, ios_course, uiux_course
 import plotly.express as px
 
+import spacy
+nlp = spacy.load(r'C:\Users\ragha\AppData\Local\Programs\Python\Python311\Lib\site-packages\en_core_web_sm\en_core_web_sm-2.3.1')
+
 
 
 def get_table_download_link(df, filename, text):
